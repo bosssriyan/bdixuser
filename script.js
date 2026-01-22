@@ -36,7 +36,7 @@ Promise.all([
 
 const urls=[
   "https://raw.githubusercontent.com/munim-sah75/Cofs_TV/refs/heads/main/fancode.m3u",
-  "https://raw.githubusercontent.com/biostartvworld/playlist/refs/heads/main/iptv.m3u"
+  "https://eamintalukdar.pages.dev/iptv.m3u8"
 ];
 
 let channels = [];
@@ -312,3 +312,4 @@ document.addEventListener("DOMContentLoaded",()=>{
   document.body.appendChild(tg);
 
 });
+

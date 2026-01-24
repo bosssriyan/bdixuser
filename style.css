@@ -51,8 +51,8 @@ header{
   position:absolute;
   right:5px;
   bottom:2px;
-  width:70px;
-  height:70px;
+  width:35px;
+  height:35px;
   z-index:7;
   opacity:.9;
   filter:drop-shadow(0 6px 12px rgba(0,0,0,.8));
@@ -376,5 +376,6 @@ header{
   padding:0;
   text-decoration: underline;
 }
+
 
 
